@@ -1,0 +1,1 @@
+# dotnet-resource-bug
